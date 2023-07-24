@@ -14,7 +14,7 @@ const app = express();
 
 app.use(cors(
   {
-   origin :['https://localhost:3000']
+   origin :['https://frontend-0a7h.onrender.com/']
 }
 ));
 
